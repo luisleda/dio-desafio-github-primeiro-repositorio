@@ -1,0 +1,24 @@
+.div-principal {
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 70%;
+}
+
+body {
+    font-family: monospace;
+    background-color: antiquewhite;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+ol {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
